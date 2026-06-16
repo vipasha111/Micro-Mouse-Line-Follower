@@ -117,8 +117,4 @@ The robot successfully follows the predefined path using sensor feedback and PID
 - Control System Development
 - Robotics Research
 
-## Author
 
-Vipasha Sahu  
-Electronics & Instrumentation Engineering (EIE)  
-NIT Silchar
