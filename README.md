@@ -21,7 +21,7 @@ This project simulates a two-wheeled differential drive Micromouse robot in a 3D
 ```text
 Micromouse-Line-Follower/
 │
-├── LineTraceSample2025a.slx
+├── LineTrace2025a.slx
 ├── Tracer.stl
 ├── Course.stl
 ├── README.md
